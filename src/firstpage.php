@@ -101,7 +101,7 @@
             </form>
           </div> 
           </div>
-        
+         <!--Js code to slides-->
         <script>
         let slideIndex = 1;
         showSlides(slideIndex);
