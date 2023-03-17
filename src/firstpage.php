@@ -26,7 +26,7 @@
         </div>
 
     </nav>
-    <!--slideShow-->      
+    <!--slideShow Flips-->      
         <div class="rounded-xl flex flex-row">
           <div class="w-3/4 relative h-full ml-0.5">
             <div class="mySlides h-96 w-full bg-cover bg-cyan-500 bg-[url('../src/img/online-banking.jpg')] rounded-b-xl shadow-xl">
